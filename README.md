@@ -2,6 +2,11 @@
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Cleyviton+Ferreira;I'm+18+years+old;I+am+from+Barro+Preto,+BA;I+study+systems+development+at+Kenzie+Academy+Brasil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
+<div align="center">
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=cleyviton&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
+</div>
+<br>
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=cleyviton&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
@@ -10,8 +15,7 @@
 <div> 
   <a href="https://instagram.com/cleyviton_ferreira23" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:cleyvitonk@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/cleyviton-ferreira-b6729a251" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+  <a href="https://www.linkedin.com/in/cleyviton-ferreira-b6729a251" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
 </div> 
  
