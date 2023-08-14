@@ -22,7 +22,6 @@
 
   <img width="11.25%" src="https://img.shields.io/badge/NODEJS-000000?logo=node.js&logoColor=000000&color=62e2a2">
   <img width="14%" src="https://img.shields.io/badge/EXPRESSJS-000000?logo=express&logoColor=000000&color=62e2a2">
-  <img width="10.75%" src="https://img.shields.io/badge/NESTJS-000000?logo=nestjs&logoColor=000000&color=62e2a2">
   <img width="11.5%" src="https://img.shields.io/badge/DJANGO-000000?logo=django&logoColor=000000&color=62e2a2">
 
   <img width="11.5%" src="https://img.shields.io/badge/REACTJS-000000?logo=react&logoColor=000000&color=%2362b3e2">
@@ -32,10 +31,6 @@
 
   <img width="16.5%" src="https://img.shields.io/badge/POSTGRESQL-000000?logo=postgresql&logoColor=000000&color=62d3e2">
   <img width="10.75%" src="https://img.shields.io/badge/MYSQL-000000?logo=mysql&logoColor=000000&color=62d3e2">
-
-  <img width="11.75%" src="https://img.shields.io/badge/DOCKER-000000?logo=docker&logoColor=000000&color=686868">
-
-  <img width="8.35%" src="https://img.shields.io/badge/JEST-000000?logo=jest&logoColor=000000&color=%23dfb176">
 
   <img width="7.25%" src="https://img.shields.io/badge/GIT-000000?logo=git&logoColor=000000&color=ac76df">
   <img width="8%" src="https://img.shields.io/badge/NPM-000000?logo=npm&logoColor=000000&color=%23ac76df">
