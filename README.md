@@ -39,9 +39,9 @@
 
 
 # 📫 Contact me:</b>
-- ➡️ Linkedin: [https://www.linkedin.com/in/bruno-pavanelli/](https://www.linkedin.com/in/bruno-pavanelli/)
-- 💁 Portfolio: [https://portfolio-six-ochre-59.vercel.app/](https://portfolio-six-ochre-59.vercel.app/)
-- 📧 Email: [brunopavanellicontato@gmail.com](mailto:brunopavanellicontato@gmail.com)
+- ➡️ Linkedin: [https://www.linkedin.com/in/cleyviton-ferreira-b6729a251/](https://www.linkedin.com/in/cleyviton-ferreira-b6729a251/)
+- 💁 Portfolio: [https://portifolio-navy-three-76.vercel.app/](https://portifolio-navy-three-76.vercel.app/)
+- 📧 Email: [cleyvitonk@gmail.com](mailto:cleyvitonk@gmail.com)
 
   <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
