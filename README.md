@@ -6,9 +6,9 @@
 
 # ▶️ Here's my github stats:
 
-| ![BrunoPavanelli's github stats](https://github-readme-stats.vercel.app/api?username=BrunoPavanelli&showicons=true&theme=react) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BrunoPavanelli&theme=react) |
+| ![cleyviton's github stats](https://github-readme-stats.vercel.app/api?username=Cleyviton&showicons=true&theme=react) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Cleyviton&theme=react) |
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoPavanelli&langs_count=8&theme=react&layout=compact) |![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BrunoPavanelli&theme=react)|
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cleyviton&langs_count=8&theme=react&layout=compact) |![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cleyviton&theme=react)|
 
 # <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
