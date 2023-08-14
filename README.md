@@ -1,4 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Cleyviton+Ferreira;I'm+18+years+old;I+am+from+Barro+Preto,+BA;I+study+systems+development+at+Kenzie+Academy+Brasil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <h3>Hello! I'm Cleyviton Ferreira 🔛 <br/> Web Full Stack Developer <img align="center" src="https://img.icons8.com/color/26/000000/github-2.png"/>👨‍💻</h3> 
 
@@ -55,8 +56,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
- 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Cleyviton+Ferreira;I'm+18+years+old;I+am+from+Barro+Preto,+BA;I+study+systems+development+at+Kenzie+Academy+Brasil;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
 
 <div align="center">
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=cleyviton&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
