@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-<h3>Hello! I'm Cleyviton Ferreira 🔛 <br/> Web Full Stack Developer 👨‍💻</h3> 
+<h3>Hello! I'm Cleyviton Ferreira 🔛 <br/> Web Full Stack Developer Jr 👨‍💻</h3> 
 
 - 🔭 I’m currently working on [MyAgenda](https://github.com/Cleyviton/MyAgenda) and [Motors](https://github.com/ProjetoFullStack-Motors)
 - 📘 I’m currently learning **Nest.js**, **Prisma**, and getting deeper in **OOP**
